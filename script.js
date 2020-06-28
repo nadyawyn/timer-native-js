@@ -80,7 +80,7 @@ function setClock(id, endtime) {
 
 //Set 2 values here: 1) html ID of your timer block 2) your deadline date
 let blockid = 'timer',
-	deadline = '2021-06-30';
+	deadline = '2020-07-01';
 
 //Launch the function!
 setClock(blockid, deadline);
